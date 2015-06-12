@@ -1,0 +1,106 @@
+{
+
+  "count":3,
+
+  "items":[
+
+    {
+
+      "row_number":1,
+
+      "reminderID":"24a73f11-0f5d-11e5-87c2-93a25f817b96",
+
+      "accountID":"47a52a06-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "companyID":"096d4787-a0cb-11e4-87c2-93a25f817b96",
+
+      "routeID":"096d47de-a0cb-11e4-87c2-93a25f817b96",
+
+      "endDateTime":"2015-09-10T10:00:00",
+
+      "name":"reoccur this - 9/10/2015",
+
+      "reminderTemplateID":"1b82878d-ce9c-11e4-b64c-edc3386bc6c1",
+
+      "showOnSchedule":true,
+
+      "siteID":"47a52a08-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "startDateTime":"2015-09-10T09:00:00",
+
+      "timeStamp":"2015-06-10T03:40:00",
+
+      "transactionDateTime":"2015-06-10T03:40:51",
+
+      "userName":"SM Maintenance"
+
+    },
+
+    {
+
+      "row_number":2,
+
+      "reminderID":"501a2b00-1026-11e5-87c2-93a25f817b96",
+
+      "accountID":"47a52a06-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "companyID":"096d4787-a0cb-11e4-87c2-93a25f817b96",
+
+      "routeID":"096d47de-a0cb-11e4-87c2-93a25f817b96",
+
+      "endDateTime":"2015-09-11T10:00:00",
+
+      "name":"reoccur this - 9/11/2015",
+
+      "reminderTemplateID":"1b82878d-ce9c-11e4-b64c-edc3386bc6c1",
+
+      "showOnSchedule":true,
+
+      "siteID":"47a52a08-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "startDateTime":"2015-09-11T09:00:00",
+
+      "timeStamp":"2015-06-11T03:40:00",
+
+      "transactionDateTime":"2015-06-11T03:40:53",
+
+      "userName":"SM Maintenance"
+
+    },
+
+    {
+
+      "row_number":3,
+
+      "reminderID":"825b1664-10ef-11e5-87c2-93a25f817b96",
+
+      "accountID":"47a52a06-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "companyID":"096d4787-a0cb-11e4-87c2-93a25f817b96",
+
+      "routeID":"096d47de-a0cb-11e4-87c2-93a25f817b96",
+
+      "endDateTime":"2015-09-12T10:00:00",
+
+      "name":"reoccur this - 9/12/2015",
+
+      "reminderTemplateID":"1b82878d-ce9c-11e4-b64c-edc3386bc6c1",
+
+      "showOnSchedule":true,
+
+      "siteID":"47a52a08-ce7f-11e4-b64c-edc3386bc6c1",
+
+      "startDateTime":"2015-09-12T09:00:00",
+
+      "timeStamp":"2015-06-12T03:41:00",
+
+      "transactionDateTime":"2015-06-12T03:41:05",
+
+      "userName":"SM Maintenance"
+
+    }
+
+  ]
+
+}
+
